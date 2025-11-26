@@ -21,18 +21,18 @@ Must have
 - [x] Un service d'intelligence artificielle est à la disposition du client pour l'aider à mieux comprendre et utiliser l'application en cas de besoin
 
 Maybe
-- L’app analyse les goûts de l’utilisateur, ses commandes passées et même l’heure de la journée pour suggérer le plat parfait.
-- L’utilisateur peut voir son burger en 3D, le tourner, ajouter ou retirer des ingrédients en temps réel.
+- [ ] L’app analyse les goûts de l’utilisateur, ses commandes passées et même l’heure de la journée pour suggérer le plat parfait.
+- [ ] L’utilisateur peut voir son burger en 3D, le tourner, ajouter ou retirer des ingrédients en temps réel.
   Comme un “Build Your Burger 3D”.
-- On peut simplement dire :
+- [ ] On peut simplement dire :
    “Magic, prépare-moi mon menu habituel.”
    Et l’application prépare automatiquement la commande.
-- Temps réel avancé : suivi du chef à la cuisine
+- [ ] Temps réel avancé : suivi du chef à la cuisine
   Mini-stream en direct ou animation stylisée montrant :
-  Quand le burger est en préparation
-  Quand il est en cuisson
-  Quand il est assemblé
-  Quand il part en livraison
+  Quand le burger est en préparation.
+  Quand il est en cuisson.
+  Quand il est assemblé.
+  Quand il part en livraison.
 
 
 
