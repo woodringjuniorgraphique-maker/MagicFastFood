@@ -10,15 +10,15 @@ Burger est une application innovante dédiée à la gestion et à l’optimisati
 # User Stories
 
 Must have
-- L'utilisateur peut créer un compte rapidement
-- Peut consulter le menu par catégories(Order) afin de trouver plus facilement ce qu'il veut manger
-- Peut voir les détails d'un plat (ingrédients, prix, options)
-- Peut ajouter des plats au panier
-- Peut modifier son panier (quantité, suppression)
-- Peut payer en ligne (carte Visa et MasterCard)
-- Peut choisir le point de livraison
-- Peut contacter le service client pour avoir plus de détails concernant la livraison si besoin
-- Un service d'intelligence artificielle est à la disposition du client pour l'aider à mieux comprendre et utiliser l'application en cas de besoin
+- [x] L'utilisateur peut créer un compte rapidement
+- [x] Peut consulter le menu par catégories(Order) afin de trouver plus facilement ce qu'il veut manger
+- [x] Peut voir les détails d'un plat (ingrédients, prix, options)
+- [x] Peut ajouter des plats au panier
+- [x] Peut modifier son panier (quantité, suppression)
+- [x] Peut payer en ligne (carte Visa et MasterCard)
+- [x] Peut choisir le point de livraison
+- [x] Peut contacter le service client pour avoir plus de détails concernant la livraison si besoin
+- [x] Un service d'intelligence artificielle est à la disposition du client pour l'aider à mieux comprendre et utiliser l'application en cas de besoin
 
 Maybe
 - L’app analyse les goûts de l’utilisateur, ses commandes passées et même l’heure de la journée pour suggérer le plat parfait.
